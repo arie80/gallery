@@ -28,8 +28,8 @@
 				$attachment['Photo']['id'],
 				$thumbnail,
 				$attachment['Album']['title'],
-				$attachment['Photo']['weight'],
 				$attachment['Photo']['title'],
+				$attachment['Photo']['weight'],
 				$this->Text->truncate(strip_tags($attachment['Photo']['description']), 30),
 				$attachment['Photo']['url'],
 				$actions
