@@ -37,7 +37,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
                 maxImages: 12,
                 highlight: true,
                 containerPosition: "relative",
-                overlayBackColor: "white",
+                overlayBackColor: "black",
                 overlayForeColor: "#424547",
                 overlayTransparency: 0.8,
 				customCloseButtonClass: "button",
